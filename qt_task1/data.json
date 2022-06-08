@@ -1,0 +1,26 @@
+{
+    "People": [
+        {
+            "monthlyCompensation": 1200,
+            "name": "Test Monthly Worker",
+            "ssn": "122448014",
+            "type": "Monthly"
+        },
+        {
+            "doneHours": 8,
+            "hourlyCompensation": 8,
+            "name": "Test Hourly Intern",
+            "ssn": "110000022",
+            "type": "Hourly"
+        },
+        {
+            "bonusPercent": 2,
+            "monthlyCompensation": 3500,
+            "name": "Test Salesman",
+            "outcomeClaim": 2,
+            "realizedOutcome": 120,
+            "ssn": "897111122",
+            "type": "Sales"
+        }
+    ]
+}
