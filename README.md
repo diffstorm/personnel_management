@@ -11,3 +11,6 @@ Read doc file for details
 # Screen Shot
 ![Main Window](1.png)
 ![Add/Edit](2.png)
+
+## :snowman: Author
+Eray Öztürk ([@diffstorm](https://github.com/diffstorm))
